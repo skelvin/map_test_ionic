@@ -1,0 +1,310 @@
+[
+    {
+		"ID": "1",
+		"Branch": "Adjumani"
+	},
+	{
+		"ID": "2",
+		"Branch": "Amolatar"
+	},
+	{
+		"ID": "3",
+		"Branch": "Bwaise"
+	},
+	{
+		"ID": "4",
+		"Branch": "Bwera"
+	},
+	{
+		"ID": "5",
+		"Branch": "Bweyale"
+	},
+	{
+		"ID": "6",
+		"Branch": "Gulu Market"
+	},
+	{
+		"ID": "7",
+		"Branch": "Hoima"
+	},
+	{
+		"ID": "8",
+		"Branch": "Isingiro"
+	},
+	{
+		"ID": "9",
+		"Branch": "Kabale"
+	},
+	{
+		"ID": "10",
+		"Branch": "Kagadi"
+	},
+	{
+		"ID": "11",
+		"Branch": "Kanungu"
+	},
+	{
+		"ID": "12",
+		"Branch": "Kapchorwa"
+	},
+	{
+		"ID": "13",
+		"Branch": "Kawempe"
+	},
+	{
+		"ID": "14",
+		"Branch": "Kayabwe"
+	},
+	{
+		"ID": "15",
+		"Branch": "Kireka"
+	},
+	{
+		"ID": "16",
+		"Branch": "Koboko"
+	},
+	{
+		"ID": "17",
+		"Branch": "Kotido"
+	},
+	{
+		"ID": "18",
+		"Branch": "Kumi Service"
+	},
+	{
+		"ID": "19",
+		"Branch": "Kyenjojo"
+	},
+	{
+		"ID": "20",
+		"Branch": "Kyotera"
+	},
+	{
+		"ID": "21",
+		"Branch": "Makerere"
+	},
+	{
+		"ID": "22",
+		"Branch": "Mapeera"
+	},
+	{
+		"ID": "23",
+		"Branch": "Mapeera Platinum"
+	},
+	{
+		"ID": "24",
+		"Branch": "Masaka"
+	},
+	{
+		"ID": "25",
+		"Branch": "Mbale"
+	},
+	{
+		"ID": "26",
+		"Branch": "Mubende"
+	},
+	{
+		"ID": "27",
+		"Branch": "Mukono"
+	},
+	{
+		"ID": "28",
+		"Branch": "Najjanankumbi"
+	},
+	{
+		"ID": "29",
+		"Branch": "Paidha"
+	},
+	{
+		"ID": "30",
+		"Branch": "Rukungiri"
+	},
+	{
+		"ID": "31",
+		"Branch": "Sembabule"
+	},
+	{
+		"ID": "32",
+		"Branch": "Soroti"
+	},
+	{
+		"ID": "33",
+		"Branch": "Tororo"
+	},
+	{
+		"ID": "34",
+		"Branch": "Wobulenzi"
+	},
+	{
+		"ID": "35",
+		"Branch": "Yumbe"
+	},
+	{
+		"ID": "36",
+		"Branch": "Gulu"
+	},
+	{
+		"ID": "37",
+		"Branch": "Kikuubo"
+	},
+	{
+		"ID": "38",
+		"Branch": "Masindi"
+	},
+	{
+		"ID": "39",
+		"Branch": "Mbarara"
+	},
+	{
+		"ID": "40",
+		"Branch": "Nebbi"
+	},
+	{
+		"ID": "41",
+		"Branch": "Apac"
+	},
+	{
+		"ID": "42",
+		"Branch": "Arua"
+	},
+	{
+		"ID": "43",
+		"Branch": "Bugiri"
+	},
+	{
+		"ID": "44",
+		"Branch": "Bundibugyo"
+	},
+	{
+		"ID": "45",
+		"Branch": "Busia"
+	},
+	{
+		"ID": "46",
+		"Branch": "Entebbe Road"
+	},
+	{
+		"ID": "47",
+		"Branch": "Entebbe Road B"
+	},
+	{
+		"ID": "48",
+		"Branch": "Fort Portal"
+	},
+	{
+		"ID": "49",
+		"Branch": "Ibanda"
+	},
+	{
+		"ID": "50",
+		"Branch": "Iganga"
+	},
+	{
+		"ID": "51",
+		"Branch": "Ishaka"
+	},
+	{
+		"ID": "52",
+		"Branch": "Jinja"
+	},
+	{
+		"ID": "53",
+		"Branch": "Kabalagala"
+	},
+	{
+		"ID": "54",
+		"Branch": "Kamuli"
+	},
+	{
+		"ID": "55",
+		"Branch": "Kamwenge"
+	},
+	{
+		"ID": "56",
+		"Branch": "Kasese"
+	},
+	{
+		"ID": "57",
+		"Branch": "Kawuku"
+	},
+	{
+		"ID": "58",
+		"Branch": "Kayunga"
+	},
+	{
+		"ID": "59",
+		"Branch": "Kiboga"
+	},
+	{
+		"ID": "60",
+		"Branch": "Kisoro"
+	},
+	{
+		"ID": "61",
+		"Branch": "Kitgum"
+	},
+	{
+		"ID": "62",
+		"Branch": "Lira"
+	},
+	{
+		"ID": "63",
+		"Branch": "Lugogo"
+	},
+	{
+		"ID": "64",
+		"Branch": "Lyantonde"
+	},
+	{
+		"ID": "65",
+		"Branch": "Mbarara Corporate"
+	},
+	{
+		"ID": "66",
+		"Branch": "Mityana"
+	},
+	{
+		"ID": "67",
+		"Branch": "Moroto"
+	},
+	{
+		"ID": "68",
+		"Branch": "Mpigi"
+	},
+	{
+		"ID": "69",
+		"Branch": "Nakivubo Road"
+	},
+	{
+		"ID": "70",
+		"Branch": "Namirembe Road"
+	},
+	{
+		"ID": "71",
+		"Branch": "Nansana"
+	},
+	{
+		"ID": "72",
+		"Branch": "Natete"
+	},
+	{
+		"ID": "73",
+		"Branch": "Ntinda"
+	},
+	{
+		"ID": "74",
+		"Branch": "Ntungamo"
+	},
+	{
+		"ID": "75",
+		"Branch": "Pallisa"
+	},
+	{
+		"ID": "76",
+		"Branch": "Rubaga"
+	},
+	{
+		"ID": "77",
+		"Branch": "Wakiso"
+	}      
+  ]

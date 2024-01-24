@@ -1,0 +1,11 @@
+body.swal2-shown > [aria-hidden="true"] {
+    transition: 0.1s filter;
+    filter: blur(10px);
+}
+
+body.swal2-shown .blur {
+    filter: blur(10px);
+    -webkit-filter: blur(10px);
+    opacity: 0.9;
+    
+  }

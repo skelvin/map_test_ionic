@@ -1,0 +1,6117 @@
+[
+        {
+            "ID": "1",
+            "Subcounty": "Buikwe",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "2",
+            "Subcounty": "Kawolo",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "3",
+            "Subcounty": "Lugazi Tc",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "4",
+            "Subcounty": "Najja",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "5",
+            "Subcounty": "Najjembe",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "6",
+            "Subcounty": "Ngogwe",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "7",
+            "Subcounty": "Njeru Tc",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "8",
+            "Subcounty": "Nkokonjeru Tc",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "9",
+            "Subcounty": "Nyenga",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "10",
+            "Subcounty": "Ssi-bukunja",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "11",
+            "Subcounty": "Wakisi",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "12",
+            "Subcounty": "Bigasa",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "13",
+            "Subcounty": "Butenga",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "14",
+            "Subcounty": "Kibinge",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "15",
+            "Subcounty": "Kitanda",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "16",
+            "Subcounty": "Budde",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "17",
+            "Subcounty": "Bulo",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "18",
+            "Subcounty": "Kalamba",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "19",
+            "Subcounty": "Kibibi",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "20",
+            "Subcounty": "Ngando",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "21",
+            "Subcounty": "Bugaya",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "22",
+            "Subcounty": "Busamuzi",
+            "Soilcode": "23"
+        },
+        {
+            "ID": "23",
+            "Subcounty": "Bweema",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "24",
+            "Subcounty": "Nairambi",
+            "Soilcode": "23"
+        },
+        {
+            "ID": "25",
+            "Subcounty": "Buvuma tc",
+            "Soilcode": "23"
+        },
+        {
+            "ID": "26",
+            "Subcounty": "Kabulasoke",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "27",
+            "Subcounty": "Kyegonza",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "28",
+            "Subcounty": "Maddu",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "29",
+            "Subcounty": "Mpenja",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "30",
+            "Subcounty": "Kanoni TC",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "31",
+            "Subcounty": "Bubeke",
+            "Soilcode": "23/58"
+        },
+        {
+            "ID": "32",
+            "Subcounty": "Bufumira",
+            "Soilcode": "23/58"
+        },
+        {
+            "ID": "33",
+            "Subcounty": "Bujjumba",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "34",
+            "Subcounty": "Kalangala Tc",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "35",
+            "Subcounty": "Kyamuswa",
+            "Soilcode": "23/58"
+        },
+        {
+            "ID": "36",
+            "Subcounty": "Mazinga",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "37",
+            "Subcounty": "Mugoye",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "38",
+            "Subcounty": "Bukulula",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "39",
+            "Subcounty": "Kalungu",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "40",
+            "Subcounty": "Kyamuliibwa",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "41",
+            "Subcounty": "Lukaya Tc",
+            "Soilcode": "58"
+        },
+        {
+            "ID": "42",
+            "Subcounty": "Lwabenge",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "43",
+            "Subcounty": "Central Division",
+            "Soilcode": "5"
+        },
+        {
+            "ID": "44",
+            "Subcounty": "Kawempe Division",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "45",
+            "Subcounty": "Makindye Division",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "46",
+            "Subcounty": "Nakawa Division",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "47",
+            "Subcounty": "Rubaga Division",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "48",
+            "Subcounty": "Bbaale",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "49",
+            "Subcounty": "Busana",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "50",
+            "Subcounty": "Galiraaya",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "51",
+            "Subcounty": "Kangulumira",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "52",
+            "Subcounty": "Kayonza",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "53",
+            "Subcounty": "Kayunga",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "54",
+            "Subcounty": "Kayunga Tc",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "55",
+            "Subcounty": "Nazigo",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "56",
+            "Subcounty": "Wabwoko-kitimbwa",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "57",
+            "Subcounty": "Bukomero",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "58",
+            "Subcounty": "Dwaniro",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "59",
+            "Subcounty": "Kapeke",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "60",
+            "Subcounty": "Kibiga",
+            "Soilcode": "5/12,"
+        },
+        {
+            "ID": "61",
+            "Subcounty": "Kiboga Tc",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "62",
+            "Subcounty": "Lwamata",
+            "Soilcode": "5/12,"
+        },
+        {
+            "ID": "63",
+            "Subcounty": "Muwanga",
+            "Soilcode": "5/12,"
+        },
+        {
+            "ID": "64",
+            "Subcounty": "Bukomero TC",
+            "Soilcode": "5/12,"
+        },
+        {
+            "ID": "65",
+            "Subcounty": "Butemba",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "66",
+            "Subcounty": "Gayaza",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "67",
+            "Subcounty": "Kyankwanzi",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "68",
+            "Subcounty": "Mulagi",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "69",
+            "Subcounty": "Nsambya",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "70",
+            "Subcounty": "Ntwetwe",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "71",
+            "Subcounty": "Wattuba",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "72",
+            "Subcounty": "Butemba TC",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "73",
+            "Subcounty": "Ntwetwe TC",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "74",
+            "Subcounty": "Bamunanika",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "75",
+            "Subcounty": "Bombo Tc",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "76",
+            "Subcounty": "Butuntumula",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "77",
+            "Subcounty": "Kalagala",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "78",
+            "Subcounty": "Kamira",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "79",
+            "Subcounty": "Katikamu",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "80",
+            "Subcounty": "Kikyusa",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "81",
+            "Subcounty": "Luwero",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "82",
+            "Subcounty": "Luwero Tc",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "83",
+            "Subcounty": "Makulubita",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "84",
+            "Subcounty": "Nyimbwa",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "85",
+            "Subcounty": "Wobulenzi Tc",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "86",
+            "Subcounty": "Zirobwe",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "87",
+            "Subcounty": "Kisekka",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "88",
+            "Subcounty": "Kyazanga",
+            "Soilcode": "12"
+        },
+        {
+            "ID": "89",
+            "Subcounty": "Lwengo",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "90",
+            "Subcounty": "Malongo",
+            "Soilcode": "12"
+        },
+        {
+            "ID": "91",
+            "Subcounty": "Ndagwe",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "92",
+            "Subcounty": "Lwengo",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "93",
+            "Subcounty": "lwengo TC",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "94",
+            "Subcounty": "kyazanga TC",
+            "Soilcode": "12"
+        },
+        {
+            "ID": "95",
+            "Subcounty": "Kkingo",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "96",
+            "Subcounty": "Kaliiro",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "97",
+            "Subcounty": "Kasagama",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "98",
+            "Subcounty": "Kinuuka",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "99",
+            "Subcounty": "Lyantonde",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "100",
+            "Subcounty": "Lyantonde Tc",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "101",
+            "Subcounty": "Mpumudde",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "102",
+            "Subcounty": "Bukakata",
+            "Soilcode": "58"
+        },
+        {
+            "ID": "103",
+            "Subcounty": "Buwunga",
+            "Soilcode": "58/1"
+        },
+        {
+            "ID": "104",
+            "Subcounty": "Kabonera",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "105",
+            "Subcounty": "Katwe/butego",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "106",
+            "Subcounty": "Kimanya/kyabakuza",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "107",
+            "Subcounty": "Kyesiiga",
+            "Soilcode": "58/1"
+        },
+        {
+            "ID": "108",
+            "Subcounty": "Kyanamukaaka",
+            "Soilcode": "58/1"
+        },
+        {
+            "ID": "109",
+            "Subcounty": "Mukungwe",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "110",
+            "Subcounty": "Nyendo/senyange",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "111",
+            "Subcounty": "Bulera",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "112",
+            "Subcounty": "Busimbi",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "113",
+            "Subcounty": "Butayunja",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "114",
+            "Subcounty": "Kakindu",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "115",
+            "Subcounty": "Kikandwa",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "116",
+            "Subcounty": "Maanyi",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "117",
+            "Subcounty": "Malangala",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "118",
+            "Subcounty": "Mityana Tc",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "119",
+            "Subcounty": "Ssekanyonyi",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "120",
+            "Subcounty": "Kalangalo",
+            "Soilcode": "5"
+        },
+        {
+            "ID": "121",
+            "Subcounty": "Banda",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "122",
+            "Subcounty": "Namungo",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "123",
+            "Subcounty": "Buwama",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "124",
+            "Subcounty": "Kamengo",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "125",
+            "Subcounty": "Kiringente",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "126",
+            "Subcounty": "Kituntu",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "127",
+            "Subcounty": "Mpigi",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "128",
+            "Subcounty": "Mpigi Tc",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "129",
+            "Subcounty": "Muduma",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "130",
+            "Subcounty": "Nkozi",
+            "Soilcode": "58"
+        },
+        {
+            "ID": "131",
+            "Subcounty": "Bagezza",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "132",
+            "Subcounty": "Bukuya",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "133",
+            "Subcounty": "Butoloogo",
+            "Soilcode": "25"
+        },
+        {
+            "ID": "134",
+            "Subcounty": "Kasambya",
+            "Soilcode": "11"
+        },
+        {
+            "ID": "135",
+            "Subcounty": "Kassanda",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "136",
+            "Subcounty": "Kigando",
+            "Soilcode": "5"
+        },
+        {
+            "ID": "137",
+            "Subcounty": "Kitenga",
+            "Soilcode": "5"
+        },
+        {
+            "ID": "138",
+            "Subcounty": "Kiyuni",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "139",
+            "Subcounty": "Madudu",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "140",
+            "Subcounty": "Mubende Tc",
+            "Soilcode": "5"
+        },
+        {
+            "ID": "141",
+            "Subcounty": "Myanzi",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "142",
+            "Subcounty": "Kitumbi",
+            "Soilcode": "5/12,"
+        },
+        {
+            "ID": "143",
+            "Subcounty": "Makookota",
+            "Soilcode": "5/12,"
+        },
+        {
+            "ID": "144",
+            "Subcounty": "Kalwana",
+            "Soilcode": "5"
+        },
+        {
+            "ID": "145",
+            "Subcounty": "Nalutuntu",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "146",
+            "Subcounty": "Manyogaseka",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "147",
+            "Subcounty": "Nabinyoola",
+            "Soilcode": "5"
+        },
+        {
+            "ID": "148",
+            "Subcounty": "Goma",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "149",
+            "Subcounty": "Kasawo",
+            "Soilcode": "55"
+        },
+        {
+            "ID": "150",
+            "Subcounty": "Kimenyedde",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "151",
+            "Subcounty": "Kkome Islands",
+            "Soilcode": "23/58"
+        },
+        {
+            "ID": "152",
+            "Subcounty": "Kyampisi",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "153",
+            "Subcounty": "central",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "154",
+            "Subcounty": "Nabaale",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "155",
+            "Subcounty": "Nagojje",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "156",
+            "Subcounty": "Nakisunga",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "157",
+            "Subcounty": "Nama",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "158",
+            "Subcounty": "Ntenjeru",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "159",
+            "Subcounty": "Ntunda",
+            "Soilcode": "55"
+        },
+        {
+            "ID": "160",
+            "Subcounty": "Seeta-namuganga",
+            "Soilcode": "55"
+        },
+        {
+            "ID": "161",
+            "Subcounty": "Mpaata",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "162",
+            "Subcounty": "Mpunge",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "163",
+            "Subcounty": "Kapeeka",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "164",
+            "Subcounty": "Kasangombe",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "165",
+            "Subcounty": "Kikamulo",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "166",
+            "Subcounty": "Nakaseke",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "167",
+            "Subcounty": "Nakaseke TC",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "168",
+            "Subcounty": "Ngoma",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "169",
+            "Subcounty": "Ngoma TC",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "170",
+            "Subcounty": "Semuto",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "171",
+            "Subcounty": "Wakyato",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "172",
+            "Subcounty": "Kinoni",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "173",
+            "Subcounty": "Kinyogoga",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "174",
+            "Subcounty": "Butalungu TC",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "175",
+            "Subcounty": "Kiwoko TC",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "176",
+            "Subcounty": "Kito",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "177",
+            "Subcounty": "Kakooge",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "178",
+            "Subcounty": "Kalongo",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "179",
+            "Subcounty": "Kalungi",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "180",
+            "Subcounty": "Lwabyata",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "181",
+            "Subcounty": "Lwampanga",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "182",
+            "Subcounty": "Nabiswera",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "183",
+            "Subcounty": "Nakasongola Tc",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "184",
+            "Subcounty": "Nakitoma",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "185",
+            "Subcounty": "Wabinyonyi",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "186",
+            "Subcounty": "Migeera TC",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "187",
+            "Subcounty": "Kakoonge TC",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "188",
+            "Subcounty": "Byakabanda",
+            "Soilcode": "12"
+        },
+        {
+            "ID": "189",
+            "Subcounty": "Ddwaniro",
+            "Soilcode": "12"
+        },
+        {
+            "ID": "190",
+            "Subcounty": "Kabira",
+            "Soilcode": "58"
+        },
+        {
+            "ID": "191",
+            "Subcounty": "Kacheera",
+            "Soilcode": "12"
+        },
+        {
+            "ID": "192",
+            "Subcounty": "Kagamba (buyamba)",
+            "Soilcode": "12"
+        },
+        {
+            "ID": "193",
+            "Subcounty": "Kakuuto",
+            "Soilcode": "58"
+        },
+        {
+            "ID": "194",
+            "Subcounty": "Kalisizo",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "195",
+            "Subcounty": "Kasaali",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "196",
+            "Subcounty": "Kasasa",
+            "Soilcode": "58"
+        },
+        {
+            "ID": "197",
+            "Subcounty": "Kibanda",
+            "Soilcode": "39"
+        },
+        {
+            "ID": "198",
+            "Subcounty": "Kifamba",
+            "Soilcode": "27"
+        },
+        {
+            "ID": "199",
+            "Subcounty": "Kirumba",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "200",
+            "Subcounty": "Kyalulangira",
+            "Soilcode": "39"
+        },
+        {
+            "ID": "201",
+            "Subcounty": "Kyebe",
+            "Soilcode": "27"
+        },
+        {
+            "ID": "202",
+            "Subcounty": "Kyotera Tc",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "203",
+            "Subcounty": "Kalisizo TC",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "204",
+            "Subcounty": "Lwamaggwa",
+            "Soilcode": "12"
+        },
+        {
+            "ID": "205",
+            "Subcounty": "Lwanda",
+            "Soilcode": "12"
+        },
+        {
+            "ID": "206",
+            "Subcounty": "Lwankoni",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "207",
+            "Subcounty": "Nabigasa",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "208",
+            "Subcounty": "Rakai Tc",
+            "Soilcode": "12"
+        },
+        {
+            "ID": "209",
+            "Subcounty": "Kiziba",
+            "Soilcode": "39"
+        },
+        {
+            "ID": "210",
+            "Subcounty": "Lugusulu",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "211",
+            "Subcounty": "Lwebitakuli",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "212",
+            "Subcounty": "Lwemiyaga",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "213",
+            "Subcounty": "Mateete",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "214",
+            "Subcounty": "Mijwala",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "215",
+            "Subcounty": "Ntusi",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "216",
+            "Subcounty": "Sembabule Tc",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "217",
+            "Subcounty": "Busukuma",
+            "Soilcode": "5"
+        },
+        {
+            "ID": "218",
+            "Subcounty": "Division A",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "219",
+            "Subcounty": "Division B",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "220",
+            "Subcounty": "Gombe",
+            "Soilcode": "5"
+        },
+        {
+            "ID": "221",
+            "Subcounty": "Kakiri",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "222",
+            "Subcounty": "Kasanje",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "223",
+            "Subcounty": "Katabi",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "224",
+            "Subcounty": "Kira",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "225",
+            "Subcounty": "Masulita",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "226",
+            "Subcounty": "Nabweru",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "227",
+            "Subcounty": "Namayumba",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "228",
+            "Subcounty": "Nangabo",
+            "Soilcode": "5"
+        },
+        {
+            "ID": "229",
+            "Subcounty": "Nsangi",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "230",
+            "Subcounty": "Ssabagabo-makindye",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "231",
+            "Subcounty": "Ssisa",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "232",
+            "Subcounty": "Wakiso",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "233",
+            "Subcounty": "Wakiso Tc",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "234",
+            "Subcounty": "Abim",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "235",
+            "Subcounty": "Alerek",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "236",
+            "Subcounty": "Lotukei",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "237",
+            "Subcounty": "Morulem",
+            "Soilcode": "44"
+        },
+        {
+            "ID": "238",
+            "Subcounty": "Nyakwae",
+            "Soilcode": "44"
+        },
+        {
+            "ID": "239",
+            "Subcounty": "Amudat",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "240",
+            "Subcounty": "Karita",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "241",
+            "Subcounty": "Loroo",
+            "Soilcode": "34"
+        },
+        {
+            "ID": "242",
+            "Subcounty": "Obalanga",
+            "Soilcode": "19"
+        },
+        {
+            "ID": "243",
+            "Subcounty": "Abarilela",
+            "Soilcode": "19"
+        },
+        {
+            "ID": "244",
+            "Subcounty": "Acowa",
+            "Soilcode": "19"
+        },
+        {
+            "ID": "245",
+            "Subcounty": "Asamuk",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "246",
+            "Subcounty": "Kapelebyong",
+            "Soilcode": "19"
+        },
+        {
+            "ID": "247",
+            "Subcounty": "Kuju",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "248",
+            "Subcounty": "Morungatuny",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "249",
+            "Subcounty": "Orungo",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "250",
+            "Subcounty": "Wera",
+            "Soilcode": "19"
+        },
+        {
+            "ID": "251",
+            "Subcounty": "Budaka",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "252",
+            "Subcounty": "Iki-iki",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "253",
+            "Subcounty": "Kaderuna",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "254",
+            "Subcounty": "Kameruka",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "255",
+            "Subcounty": "Kamonkoli",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "256",
+            "Subcounty": "Lyama",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "257",
+            "Subcounty": "Naboa",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "258",
+            "Subcounty": "Bubiita",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "259",
+            "Subcounty": "Bududa",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "260",
+            "Subcounty": "Bukibokolo",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "261",
+            "Subcounty": "Bukigai",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "262",
+            "Subcounty": "Bulucheke",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "263",
+            "Subcounty": "Bumayoka",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "264",
+            "Subcounty": "Bushika",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "265",
+            "Subcounty": "Budhaya",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "266",
+            "Subcounty": "Bugiri Tc",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "267",
+            "Subcounty": "Bulesa",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "268",
+            "Subcounty": "Bulidha",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "269",
+            "Subcounty": "Buluguyi",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "270",
+            "Subcounty": "Buwunga",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "271",
+            "Subcounty": "Iwemba",
+            "Soilcode": "31"
+        },
+        {
+            "ID": "272",
+            "Subcounty": "Kapyanga",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "273",
+            "Subcounty": "Muterere",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "274",
+            "Subcounty": "Nabukalu",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "275",
+            "Subcounty": "Nankoma",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "276",
+            "Subcounty": "Bukedea",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "277",
+            "Subcounty": "Kachumbala",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "278",
+            "Subcounty": "Kidongole",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "279",
+            "Subcounty": "Kolir",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "280",
+            "Subcounty": "Malera",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "281",
+            "Subcounty": "Bukwa",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "282",
+            "Subcounty": "Chesower",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "283",
+            "Subcounty": "Kabei",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "284",
+            "Subcounty": "Suam",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "285",
+            "Subcounty": "Buginyanya",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "286",
+            "Subcounty": "Bukhalu",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "287",
+            "Subcounty": "Bulago",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "288",
+            "Subcounty": "Bulegeni",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "289",
+            "Subcounty": "Buluganya",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "290",
+            "Subcounty": "Bunambutye",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "291",
+            "Subcounty": "Masiira",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "292",
+            "Subcounty": "Buhehe",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "293",
+            "Subcounty": "Bulumbi",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "294",
+            "Subcounty": "Busia Tc",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "295",
+            "Subcounty": "Busitema",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "296",
+            "Subcounty": "Buteba",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "297",
+            "Subcounty": "Dabani",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "298",
+            "Subcounty": "Lumino",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "299",
+            "Subcounty": "Lunyo",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "300",
+            "Subcounty": "Masaba",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "301",
+            "Subcounty": "Masafu",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "302",
+            "Subcounty": "Buyaga",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "303",
+            "Subcounty": "Sikude",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "304",
+            "Subcounty": "Western Division",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "305",
+            "Subcounty": "Eastern Division",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "306",
+            "Subcounty": "Masinyi",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "307",
+            "Subcounty": "Majanji",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "308",
+            "Subcounty": "Busime",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "309",
+            "Subcounty": "Budumba",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "310",
+            "Subcounty": "Busaba",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "311",
+            "Subcounty": "Busolwe",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "312",
+            "Subcounty": "Butaleja",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "313",
+            "Subcounty": "Kachonga",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "314",
+            "Subcounty": "Nawanjofu",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "315",
+            "Subcounty": "Mazimasa",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "316",
+            "Subcounty": "Naweyo",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "317",
+            "Subcounty": "Himutu",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "318",
+            "Subcounty": "Butaleja TC",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "319",
+            "Subcounty": "Busolwe TC",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "320",
+            "Subcounty": "Bugaya",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "321",
+            "Subcounty": "Buyende",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "322",
+            "Subcounty": "Kagulu",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "323",
+            "Subcounty": "Kidera",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "324",
+            "Subcounty": "Nkondo",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "325",
+            "Subcounty": "Buyende TC",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "326",
+            "Subcounty": "Bulamagi",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "327",
+            "Subcounty": "Buyanga",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "328",
+            "Subcounty": "Ibulanku",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "329",
+            "Subcounty": "Igombe",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "330",
+            "Subcounty": "Makuutu",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "331",
+            "Subcounty": "Nabitende",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "332",
+            "Subcounty": "Nakalama",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "333",
+            "Subcounty": "Nakigo",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "334",
+            "Subcounty": "Namalemba",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "335",
+            "Subcounty": "Nambale",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "336",
+            "Subcounty": "Namungalwe",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "337",
+            "Subcounty": "Nawandala",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "338",
+            "Subcounty": "nothern division",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "339",
+            "Subcounty": "Central Division",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "340",
+            "Subcounty": "Busembatia",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "341",
+            "Subcounty": "Nawanyingi",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "342",
+            "Subcounty": "Budondo",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "343",
+            "Subcounty": "Busedde",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "344",
+            "Subcounty": "Butagaya",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "345",
+            "Subcounty": "Buwenge",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "346",
+            "Subcounty": "Buwenge Tc",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "347",
+            "Subcounty": "Buyengo",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "348",
+            "Subcounty": "Central Division",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "349",
+            "Subcounty": "Kakira",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "350",
+            "Subcounty": "Mafubira",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "351",
+            "Subcounty": "Masese/walukuba",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "352",
+            "Subcounty": "Mpumudde/kimaka",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "353",
+            "Subcounty": "Alwa",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "354",
+            "Subcounty": "Anyara",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "355",
+            "Subcounty": "Bululu",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "356",
+            "Subcounty": "Kaberamaido",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "357",
+            "Subcounty": "Kaberamaido Tc",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "358",
+            "Subcounty": "Kalaki",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "359",
+            "Subcounty": "Kobulubulu",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "360",
+            "Subcounty": "Ochero",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "361",
+            "Subcounty": "Otuboi",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "362",
+            "Subcounty": "Kakure",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "363",
+            "Subcounty": "Apapai",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "364",
+            "Subcounty": "Aper Kira",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "365",
+            "Subcounty": "Bumanya",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "366",
+            "Subcounty": "Gadumire",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "367",
+            "Subcounty": "Namugongo",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "368",
+            "Subcounty": "Namwiwa",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "369",
+            "Subcounty": "Nawaikoke",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "370",
+            "Subcounty": "Kaliro TC",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "371",
+            "Subcounty": "Balawoli",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "372",
+            "Subcounty": "Bugulumbya",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "373",
+            "Subcounty": "Bulopa",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "374",
+            "Subcounty": "Butansi",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "375",
+            "Subcounty": "Kamuli Tc",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "376",
+            "Subcounty": "Kisozi",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "377",
+            "Subcounty": "Kitayunjwa",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "378",
+            "Subcounty": "Mbulamuti",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "379",
+            "Subcounty": "Nabwigulu",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "380",
+            "Subcounty": "Namasagali",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "381",
+            "Subcounty": "Namwendwa",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "382",
+            "Subcounty": "Nawanyago",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "383",
+            "Subcounty": "Wankole",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "384",
+            "Subcounty": "Chema",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "385",
+            "Subcounty": "Central Division Kap",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "386",
+            "Subcounty": "Western Division Kap",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "387",
+            "Subcounty": "Eastern Division Kap",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "388",
+            "Subcounty": "kapteret",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "389",
+            "Subcounty": "Kapchorwa Municipality",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "390",
+            "Subcounty": "Kwoti",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "391",
+            "Subcounty": "Gamogo",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "392",
+            "Subcounty": "Kapchorwa Tc",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "393",
+            "Subcounty": "Kaptanya",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "394",
+            "Subcounty": "Kaserem",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "395",
+            "Subcounty": "Kawowo",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "396",
+            "Subcounty": "Sipi",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "397",
+            "Subcounty": "Tegeres",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "398",
+            "Subcounty": "Kapchesombe",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "399",
+            "Subcounty": "Munarya",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "400",
+            "Subcounty": "Kapsinda",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "401",
+            "Subcounty": "Amukol",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "402",
+            "Subcounty": "Chepterech",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "403",
+            "Subcounty": "Gamogo",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "404",
+            "Subcounty": "Kabeywa",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "405",
+            "Subcounty": "Kabujan",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "406",
+            "Subcounty": "Katakwi",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "407",
+            "Subcounty": "Katakwi Tc",
+            "Soilcode": "19"
+        },
+        {
+            "ID": "408",
+            "Subcounty": "Magoro",
+            "Soilcode": "66"
+        },
+        {
+            "ID": "409",
+            "Subcounty": "Ngariam",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "410",
+            "Subcounty": "Omodoi",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "411",
+            "Subcounty": "Ongongoja",
+            "Soilcode": "66"
+        },
+        {
+            "ID": "412",
+            "Subcounty": "Toroma",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "413",
+            "Subcounty": "Usuk",
+            "Soilcode": "19"
+        },
+        {
+            "ID": "414",
+            "Subcounty": "Bulangira",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "415",
+            "Subcounty": "Buseta",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "416",
+            "Subcounty": "Kadama",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "417",
+            "Subcounty": "Kagumu",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "418",
+            "Subcounty": "Kibuku",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "419",
+            "Subcounty": "Kibuku TC",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "420",
+            "Subcounty": "Kirika",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "421",
+            "Subcounty": "Tirinyi",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "422",
+            "Subcounty": "Kabweri",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "423",
+            "Subcounty": "Atutur",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "424",
+            "Subcounty": "Kanyum",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "425",
+            "Subcounty": "Kumi",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "426",
+            "Subcounty": "Kumi Tc",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "427",
+            "Subcounty": "Mukongoro",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "428",
+            "Subcounty": "Nyero",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "429",
+            "Subcounty": "Ongino",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "430",
+            "Subcounty": "Benet",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "431",
+            "Subcounty": "Binyiny",
+            "Soilcode": "54"
+        },
+        {
+            "ID": "432",
+            "Subcounty": "Binyiny TC",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "433",
+            "Subcounty": "Kaproron",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "434",
+            "Subcounty": "Kwanyiny",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "435",
+            "Subcounty": "Ngenge",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "436",
+            "Subcounty": "Kariki",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "437",
+            "Subcounty": "Kaptum",
+            "Soilcode": "54"
+        },
+        {
+            "ID": "438",
+            "Subcounty": "Kwosir",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "439",
+            "Subcounty": "Kitawoi",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "440",
+            "Subcounty": "Kaptoyoy",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "441",
+            "Subcounty": "Bukanga",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "442",
+            "Subcounty": "Bukooma",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "443",
+            "Subcounty": "Bulongo",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "444",
+            "Subcounty": "Ikumbya",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "445",
+            "Subcounty": "Irongo",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "446",
+            "Subcounty": "Nawampiti",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "447",
+            "Subcounty": "Waibuga",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "448",
+            "Subcounty": "Luuka TC",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "449",
+            "Subcounty": "Bubutu",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "450",
+            "Subcounty": "Bugobero",
+            "Soilcode": "45"
+        },
+        {
+            "ID": "451",
+            "Subcounty": "Bumbo",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "452",
+            "Subcounty": "Bumwoni",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "453",
+            "Subcounty": "Bupoto",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "454",
+            "Subcounty": "Butiru",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "455",
+            "Subcounty": "Buwabwala",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "456",
+            "Subcounty": "Buwagogo",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "457",
+            "Subcounty": "Kaato",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "458",
+            "Subcounty": "Sibanga",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "459",
+            "Subcounty": "Busukuya",
+            "Soilcode": "45"
+        },
+        {
+            "ID": "460",
+            "Subcounty": "Bugobero",
+            "Soilcode": "45"
+        },
+        {
+            "ID": "461",
+            "Subcounty": "Bunabwana",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "462",
+            "Subcounty": "Namboko",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "463",
+            "Subcounty": "Lwakhaka TC",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "464",
+            "Subcounty": "Bukiabi",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "465",
+            "Subcounty": "Bukokho",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "466",
+            "Subcounty": "Magale",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "467",
+            "Subcounty": "sisuni",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "468",
+            "Subcounty": "Bukusu",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "469",
+            "Subcounty": "Namabya",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "470",
+            "Subcounty": "Bukhofu",
+            "Soilcode": "45"
+        },
+        {
+            "ID": "471",
+            "Subcounty": "Khabutoola",
+            "Soilcode": "45"
+        },
+        {
+            "ID": "472",
+            "Subcounty": "Nalondo",
+            "Soilcode": "45"
+        },
+        {
+            "ID": "473",
+            "Subcounty": "Butta",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "474",
+            "Subcounty": "Manafwa TC",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "475",
+            "Subcounty": "Mt Elgon NP",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "476",
+            "Subcounty": "Bukhabusi",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "477",
+            "Subcounty": "Bukhaweka",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "478",
+            "Subcounty": "Mutoto",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "479",
+            "Subcounty": "Twekululu",
+            "Soilcode": "56"
+        },
+        {
+            "ID": "480",
+            "Subcounty": "Weswa",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "481",
+            "Subcounty": "Baitambogwe",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "482",
+            "Subcounty": "Buwaaya",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "483",
+            "Subcounty": "Immanyiro",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "484",
+            "Subcounty": "Kigandalo",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "485",
+            "Subcounty": "Kityerera",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "486",
+            "Subcounty": "Malongo",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "487",
+            "Subcounty": "Mayuge Tc",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "488",
+            "Subcounty": "Wairasa",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "489",
+            "Subcounty": "Bakatube",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "490",
+            "Subcounty": "Busakira",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "491",
+            "Subcounty": "Mpungwe",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "492",
+            "Subcounty": "Bukaboole",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "493",
+            "Subcounty": "Bufumbo",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "494",
+            "Subcounty": "Bukonde",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "495",
+            "Subcounty": "Bukyiende",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "496",
+            "Subcounty": "Bungokho",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "497",
+            "Subcounty": "Bungokho-mutoto",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "498",
+            "Subcounty": "Busano",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "499",
+            "Subcounty": "Busiu",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "500",
+            "Subcounty": "Busoba",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "501",
+            "Subcounty": "Industrial Division",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "502",
+            "Subcounty": "Nakaloke",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "503",
+            "Subcounty": "Nakaloke TC ",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "504",
+            "Subcounty": "Namanyonyi",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "505",
+            "Subcounty": "Northern Division",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "506",
+            "Subcounty": "Wanale",
+            "Soilcode": "54"
+        },
+        {
+            "ID": "507",
+            "Subcounty": "Wanale Division",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "508",
+            "Subcounty": "Bukasakya",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "509",
+            "Subcounty": "Lwasso",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "510",
+            "Subcounty": "Bubyangu",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "511",
+            "Subcounty": "Budwale",
+            "Soilcode": "54"
+        },
+        {
+            "ID": "512",
+            "Subcounty": "Bumbobi",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "513",
+            "Subcounty": "Nyondo",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "514",
+            "Subcounty": "Bumasikye",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "515",
+            "Subcounty": "Lukhonge",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "516",
+            "Subcounty": "Banda",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "517",
+            "Subcounty": "Buswale",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "518",
+            "Subcounty": "Buyinja",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "519",
+            "Subcounty": "Mutumba",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "520",
+            "Subcounty": "Sigulu Islands",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "521",
+            "Subcounty": "Buhemba",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "522",
+            "Subcounty": "Namayingo TC",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "523",
+            "Subcounty": "Ivukula",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "524",
+            "Subcounty": "Kibaale",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "525",
+            "Subcounty": "Magada",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "526",
+            "Subcounty": "Namutumba",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "527",
+            "Subcounty": "Nsinze",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "528",
+            "Subcounty": "Namutumba TC",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "529",
+            "Subcounty": "Kapir",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "530",
+            "Subcounty": "Kobwin",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "531",
+            "Subcounty": "Mukura",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "532",
+            "Subcounty": "Ngora",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "533",
+            "Subcounty": "Ngora TC",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "534",
+            "Subcounty": "Agule",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "535",
+            "Subcounty": "Apopong",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "536",
+            "Subcounty": "Butebo",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "537",
+            "Subcounty": "Gogonyo",
+            "Soilcode": "31"
+        },
+        {
+            "ID": "538",
+            "Subcounty": "Kabwangasi",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "539",
+            "Subcounty": "Kakoro",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "540",
+            "Subcounty": "Kameke",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "541",
+            "Subcounty": "Kamuge",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "542",
+            "Subcounty": "Kasodo",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "543",
+            "Subcounty": "Kibale",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "544",
+            "Subcounty": "Pallisa",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "545",
+            "Subcounty": "Pallisa Tc",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "546",
+            "Subcounty": "Petete",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "547",
+            "Subcounty": "Puti-puti",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "548",
+            "Subcounty": "Olok",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "549",
+            "Subcounty": "Chelekule",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "550",
+            "Subcounty": "Akisim",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "551",
+            "Subcounty": "Opwateta",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "552",
+            "Subcounty": "Kanginima",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "553",
+            "Subcounty": "Atiira",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "554",
+            "Subcounty": "Bugondo",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "555",
+            "Subcounty": "Kadungulu",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "556",
+            "Subcounty": "Kateta",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "557",
+            "Subcounty": "Kyere",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "558",
+            "Subcounty": "Olio",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "559",
+            "Subcounty": "Pingire",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "560",
+            "Subcounty": "Labori",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "561",
+            "Subcounty": "Serere TC",
+            "Soilcode": "11"
+        },
+        {
+            "ID": "562",
+            "Subcounty": "Kasilo TC",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "563",
+            "Subcounty": "Buhugu",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "564",
+            "Subcounty": "Bukhulo",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "565",
+            "Subcounty": "Bumasifwa",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "566",
+            "Subcounty": "Busulani",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "567",
+            "Subcounty": "Butandiga",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "568",
+            "Subcounty": "Buteza",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "569",
+            "Subcounty": "Buwalasi",
+            "Soilcode": "54"
+        },
+        {
+            "ID": "570",
+            "Subcounty": "Buyobo",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "571",
+            "Subcounty": "Sironko Tc",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "572",
+            "Subcounty": "Zesui",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "573",
+            "Subcounty": "bukyambi",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "574",
+            "Subcounty": "buwasa ",
+            "Soilcode": "54"
+        },
+        {
+            "ID": "575",
+            "Subcounty": "Bunyafwa",
+            "Soilcode": "54"
+        },
+        {
+            "ID": "576",
+            "Subcounty": "Bukiyi",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "577",
+            "Subcounty": "Nalusala",
+            "Soilcode": "50"
+        },
+        {
+            "ID": "578",
+            "Subcounty": "Budadiri TC",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "579",
+            "Subcounty": "Bukiise",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "580",
+            "Subcounty": "bugitimwa",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "581",
+            "Subcounty": "masaba",
+            "Soilcode": "53"
+        },
+        {
+            "ID": "582",
+            "Subcounty": "bumalimba",
+            "Soilcode": "57"
+        },
+        {
+            "ID": "583",
+            "Subcounty": "Arapai",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "584",
+            "Subcounty": "Asuret",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "585",
+            "Subcounty": "Eastern Division",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "586",
+            "Subcounty": "Gweri",
+            "Soilcode": "19"
+        },
+        {
+            "ID": "587",
+            "Subcounty": "Kamuda",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "588",
+            "Subcounty": "Katine",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "589",
+            "Subcounty": "Northern Division",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "590",
+            "Subcounty": "Soroti",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "591",
+            "Subcounty": "Tubur",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "592",
+            "Subcounty": "Western Division",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "593",
+            "Subcounty": "Eastern Division",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "594",
+            "Subcounty": "Iyolwa",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "595",
+            "Subcounty": "Kirewa",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "596",
+            "Subcounty": "Kisoko",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "597",
+            "Subcounty": "Kwapa",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "598",
+            "Subcounty": "Mella",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "599",
+            "Subcounty": "Merikit",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "600",
+            "Subcounty": "Molo",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "601",
+            "Subcounty": "Mukuju",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "602",
+            "Subcounty": "Mulanda",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "603",
+            "Subcounty": "Nabuyoga",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "604",
+            "Subcounty": "Nagongera",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "605",
+            "Subcounty": "Osukuru",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "606",
+            "Subcounty": "Paya",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "607",
+            "Subcounty": "Petta",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "608",
+            "Subcounty": "Rubongi",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "609",
+            "Subcounty": "Western Division",
+            "Soilcode": "4"
+        },
+        {
+            "ID": "610",
+            "Subcounty": "Sop Sop",
+            "Soilcode": "10"
+        },
+        {
+            "ID": "611",
+            "Subcounty": "Nagongera TC",
+            "Soilcode": "17"
+        },
+        {
+            "ID": "612",
+            "Subcounty": "Malaba TC",
+            "Soilcode": "29"
+        },
+        {
+            "ID": "613",
+            "Subcounty": "Adilang",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "614",
+            "Subcounty": "Agago Tc",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "615",
+            "Subcounty": "Arum",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "616",
+            "Subcounty": "Kalongo Tc",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "617",
+            "Subcounty": "Kotomor",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "618",
+            "Subcounty": "Lamiyo",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "619",
+            "Subcounty": "Lapono",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "620",
+            "Subcounty": "Lira Palwo",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "621",
+            "Subcounty": "Lukole",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "622",
+            "Subcounty": "Omiya Pachwa",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "623",
+            "Subcounty": "Omot",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "624",
+            "Subcounty": "Paimol",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "625",
+            "Subcounty": "Parabongo",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "626",
+            "Subcounty": "Patongo",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "627",
+            "Subcounty": "Patongo Tc",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "628",
+            "Subcounty": "Abako",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "629",
+            "Subcounty": "Aloi",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "630",
+            "Subcounty": "Amugo",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "631",
+            "Subcounty": "Apala",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "632",
+            "Subcounty": "Omoro",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "633",
+            "Subcounty": "Aputi",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "634",
+            "Subcounty": "Awelo",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "635",
+            "Subcounty": "Muntu",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "636",
+            "Subcounty": "Namasale",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "637",
+            "Subcounty": "Amuru",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "638",
+            "Subcounty": "Atiak",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "639",
+            "Subcounty": "Lamogi",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "640",
+            "Subcounty": "Pabbo",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "641",
+            "Subcounty": "Abongomola",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "642",
+            "Subcounty": "Aduku",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "643",
+            "Subcounty": "Akokoro",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "644",
+            "Subcounty": "Apac",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "645",
+            "Subcounty": "Apac Tc",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "646",
+            "Subcounty": "Cegere",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "647",
+            "Subcounty": "Chawente",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "648",
+            "Subcounty": "Ibuje",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "649",
+            "Subcounty": "Inomo",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "650",
+            "Subcounty": "Nambieso",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "651",
+            "Subcounty": "Adumi",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "652",
+            "Subcounty": "Ajia",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "653",
+            "Subcounty": "Arivu",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "654",
+            "Subcounty": "Aroi",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "655",
+            "Subcounty": "Arua Hill",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "656",
+            "Subcounty": "Dadamu",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "657",
+            "Subcounty": "Logiri",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "658",
+            "Subcounty": "Manibe",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "659",
+            "Subcounty": "Offaka",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "660",
+            "Subcounty": "Ogoko",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "661",
+            "Subcounty": "Okollo",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "662",
+            "Subcounty": "Oli River",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "663",
+            "Subcounty": "Oluko",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "664",
+            "Subcounty": "Pajulu",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "665",
+            "Subcounty": "Rhino Camp",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "666",
+            "Subcounty": "Rigbo",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "667",
+            "Subcounty": "Uleppi",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "668",
+            "Subcounty": "Vurra",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "669",
+            "Subcounty": "Agwata",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "670",
+            "Subcounty": "Batta",
+            "Soilcode": "44"
+        },
+        {
+            "ID": "671",
+            "Subcounty": "Dokolo",
+            "Soilcode": "44"
+        },
+        {
+            "ID": "672",
+            "Subcounty": "Kangai",
+            "Soilcode": "44"
+        },
+        {
+            "ID": "673",
+            "Subcounty": "Kwera",
+            "Soilcode": "44"
+        },
+        {
+            "ID": "674",
+            "Subcounty": "okwalongwen",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "675",
+            "Subcounty": "Dokolo TC",
+            "Soilcode": "44"
+        },
+        {
+            "ID": "676",
+            "Subcounty": "Amwoma",
+            "Soilcode": "44"
+        },
+        {
+            "ID": "677",
+            "Subcounty": "Okwongul",
+            "Soilcode": "44"
+        },
+        {
+            "ID": "678",
+            "Subcounty": "Adeknino",
+            "Soilcode": "44"
+        },
+        {
+            "ID": "679",
+            "Subcounty": "Awach",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "680",
+            "Subcounty": "Bar-dege",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "681",
+            "Subcounty": "Bobi",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "682",
+            "Subcounty": "Bungatira",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "683",
+            "Subcounty": "Koro",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "684",
+            "Subcounty": "Lakwana",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "685",
+            "Subcounty": "Lalogi",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "686",
+            "Subcounty": "Laroo",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "687",
+            "Subcounty": "Layibi",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "688",
+            "Subcounty": "Odek",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "689",
+            "Subcounty": "Ongako",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "690",
+            "Subcounty": "Paicho",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "691",
+            "Subcounty": "Palaro",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "692",
+            "Subcounty": "Patiko",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "693",
+            "Subcounty": "Pece",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "694",
+            "Subcounty": "Unyama",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "695",
+            "Subcounty": "Kaabong east",
+            "Soilcode": "26/41/65"
+        },
+        {
+            "ID": "696",
+            "Subcounty": "Kaabong Tc",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "697",
+            "Subcounty": "Kalapata",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "698",
+            "Subcounty": "Kapedo",
+            "Soilcode": "42/51"
+        },
+        {
+            "ID": "699",
+            "Subcounty": "Napore (Karenga)",
+            "Soilcode": "42/1"
+        },
+        {
+            "ID": "700",
+            "Subcounty": "Kathile",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "701",
+            "Subcounty": "Lolelia",
+            "Soilcode": "42/28"
+        },
+        {
+            "ID": "702",
+            "Subcounty": "Loyoro",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "703",
+            "Subcounty": "Sidok",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "704",
+            "Subcounty": "Kaabong west",
+            "Soilcode": "26/41/65"
+        },
+        {
+            "ID": "705",
+            "Subcounty": "Lobalangit",
+            "Soilcode": "63/41"
+        },
+        {
+            "ID": "706",
+            "Subcounty": "kawalkol",
+            "Soilcode": "42/1"
+        },
+        {
+            "ID": "707",
+            "Subcounty": "kamion",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "708",
+            "Subcounty": "lokido",
+            "Soilcode": "26/41/65"
+        },
+        {
+            "ID": "709",
+            "Subcounty": "Kitgum Matidi",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "710",
+            "Subcounty": "Kitgum Tc",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "711",
+            "Subcounty": "Labongo Akwang",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "712",
+            "Subcounty": "Labongo Amida",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "713",
+            "Subcounty": "Labongo Layamo",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "714",
+            "Subcounty": "Lagoro",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "715",
+            "Subcounty": "Mucwini",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "716",
+            "Subcounty": "Namokora",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "717",
+            "Subcounty": "Omiya Anyima",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "718",
+            "Subcounty": "Orom",
+            "Soilcode": "44/65"
+        },
+        {
+            "ID": "719",
+            "Subcounty": "Koboko Tc",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "720",
+            "Subcounty": "Kuluba",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "721",
+            "Subcounty": "Lobule",
+            "Soilcode": "36"
+        },
+        {
+            "ID": "722",
+            "Subcounty": "Ludara",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "723",
+            "Subcounty": "Midia",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "724",
+            "Subcounty": "Dranya",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "725",
+            "Subcounty": "Aboke",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "726",
+            "Subcounty": "Akalo",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "727",
+            "Subcounty": "Alito",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "728",
+            "Subcounty": "Ayer",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "729",
+            "Subcounty": "Bala",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "730",
+            "Subcounty": "okwerodot",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "731",
+            "Subcounty": "kole tc",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "732",
+            "Subcounty": "Kacheri",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "733",
+            "Subcounty": "Kotido",
+            "Soilcode": "44/65"
+        },
+        {
+            "ID": "734",
+            "Subcounty": "Kotido Tc",
+            "Soilcode": "44/65"
+        },
+        {
+            "ID": "735",
+            "Subcounty": "Nakapelimoru",
+            "Soilcode": "44/65"
+        },
+        {
+            "ID": "736",
+            "Subcounty": "Panyangara",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "737",
+            "Subcounty": "Rengen",
+            "Soilcode": "44/65"
+        },
+        {
+            "ID": "738",
+            "Subcounty": "Agoro",
+            "Soilcode": "36"
+        },
+        {
+            "ID": "739",
+            "Subcounty": "Lokung",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "740",
+            "Subcounty": "Madi Opei",
+            "Soilcode": "44/65"
+        },
+        {
+            "ID": "741",
+            "Subcounty": "Padibe East",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "742",
+            "Subcounty": "Padibe West",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "743",
+            "Subcounty": "Palabek Gem",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "744",
+            "Subcounty": "Palabek Kal",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "745",
+            "Subcounty": "Palabek Ogili",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "746",
+            "Subcounty": "Paloga",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "747",
+            "Subcounty": "Lamwo TC",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "748",
+            "Subcounty": "Adekokwok",
+            "Soilcode": "44"
+        },
+        {
+            "ID": "749",
+            "Subcounty": "Adyel division",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "750",
+            "Subcounty": "Amach",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "751",
+            "Subcounty": "Aromo",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "752",
+            "Subcounty": "Barr",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "753",
+            "Subcounty": "Central Division",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "754",
+            "Subcounty": "Lira",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "755",
+            "Subcounty": "Ogur",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "756",
+            "Subcounty": "Ojwina Division",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "757",
+            "Subcounty": "Railways division",
+            "Soilcode": "44"
+        },
+        {
+            "ID": "758",
+            "Subcounty": "Agweng",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "759",
+            "Subcounty": "ngetta",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "760",
+            "Subcounty": "Agali",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "761",
+            "Subcounty": "Katikekile",
+            "Soilcode": "40"
+        },
+        {
+            "ID": "762",
+            "Subcounty": "Nadunget",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "763",
+            "Subcounty": "Northern Division",
+            "Soilcode": "40/65"
+        },
+        {
+            "ID": "764",
+            "Subcounty": "Rupa",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "765",
+            "Subcounty": "Southern Division",
+            "Soilcode": "40/65"
+        },
+        {
+            "ID": "766",
+            "Subcounty": "Tapac",
+            "Soilcode": "37"
+        },
+        {
+            "ID": "767",
+            "Subcounty": "Aliba",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "768",
+            "Subcounty": "Dufile",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "769",
+            "Subcounty": "Gimara",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "770",
+            "Subcounty": "Itula",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "771",
+            "Subcounty": "Lefori",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "772",
+            "Subcounty": "Metu",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "773",
+            "Subcounty": "Moyo",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "774",
+            "Subcounty": "Moyo Tc",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "775",
+            "Subcounty": "Kakomongole",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "776",
+            "Subcounty": "Lolachat",
+            "Soilcode": "66"
+        },
+        {
+            "ID": "777",
+            "Subcounty": "Loregae",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "778",
+            "Subcounty": "Lorengedwat",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "779",
+            "Subcounty": "Moruita",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "780",
+            "Subcounty": "Nabilatuk",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "781",
+            "Subcounty": "Nakapiripirit Tc",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "782",
+            "Subcounty": "Namalu",
+            "Soilcode": "56/65"
+        },
+        {
+            "ID": "783",
+            "Subcounty": "Iriiri",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "784",
+            "Subcounty": "Lokopo",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "785",
+            "Subcounty": "Lopei",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "786",
+            "Subcounty": "Lotome",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "787",
+            "Subcounty": "Matany",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "788",
+            "Subcounty": "Lorengecora",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "789",
+            "Subcounty": "Alero",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "790",
+            "Subcounty": "Anaka",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "791",
+            "Subcounty": "Koch Goma",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "792",
+            "Subcounty": "Purongo",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "793",
+            "Subcounty": "Nwoya TC",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "794",
+            "Subcounty": "Adwari",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "795",
+            "Subcounty": "Okwang",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "796",
+            "Subcounty": "Olilim",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "797",
+            "Subcounty": "Orum",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "798",
+            "Subcounty": "Ogwete",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "799",
+            "Subcounty": "Ogur",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "800",
+            "Subcounty": "Alango",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "801",
+            "Subcounty": "Otuke TC",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "802",
+            "Subcounty": "Aber",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "803",
+            "Subcounty": "Acaba",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "804",
+            "Subcounty": "Iceme",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "805",
+            "Subcounty": "Loro",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "806",
+            "Subcounty": "Minakulu",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "807",
+            "Subcounty": "Ngai",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "808",
+            "Subcounty": "Otwal",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "809",
+            "Subcounty": "Myene",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "810",
+            "Subcounty": "Kamdini",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "811",
+            "Subcounty": "Oyam TC",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "812",
+            "Subcounty": "Abok",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "813",
+            "Subcounty": "Aleka",
+            "Soilcode": "9"
+        },
+        {
+            "ID": "814",
+            "Subcounty": "Acholibur",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "815",
+            "Subcounty": "Angagura",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "816",
+            "Subcounty": "Atanga",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "817",
+            "Subcounty": "Awere",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "818",
+            "Subcounty": "Kilak",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "819",
+            "Subcounty": "Laguti",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "820",
+            "Subcounty": "Lapul",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "821",
+            "Subcounty": "Latanya",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "822",
+            "Subcounty": "Ogom",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "823",
+            "Subcounty": "Pader",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "824",
+            "Subcounty": "Pader Tc",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "825",
+            "Subcounty": "Pajule",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "826",
+            "Subcounty": "Puranga",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "827",
+            "Subcounty": "Biiso",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "828",
+            "Subcounty": "Budongo",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "829",
+            "Subcounty": "Buliisa",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "830",
+            "Subcounty": "Bubandi",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "831",
+            "Subcounty": "Bubukwanga",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "832",
+            "Subcounty": "Bundibugyo Tc",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "833",
+            "Subcounty": "Busaru",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "834",
+            "Subcounty": "Harugali",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "835",
+            "Subcounty": "Kasitu",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "836",
+            "Subcounty": "Nduguto",
+            "Soilcode": "60"
+        },
+        {
+            "ID": "837",
+            "Subcounty": "Bumbaire",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "838",
+            "Subcounty": "Bushenyi-ishaka Tc",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "839",
+            "Subcounty": "Kakanju",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "840",
+            "Subcounty": "bitooma",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "841",
+            "Subcounty": "Central ",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "842",
+            "Subcounty": "Nyakabirizi",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "843",
+            "Subcounty": "Ibaare",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "844",
+            "Subcounty": "Kyabugimbi",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "845",
+            "Subcounty": "Kyamuhunga",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "846",
+            "Subcounty": "Kyeizoba",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "847",
+            "Subcounty": "Nyabubare",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "848",
+            "Subcounty": "Ruhumuro",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "849",
+            "Subcounty": "Bugambe",
+            "Soilcode": "11"
+        },
+        {
+            "ID": "850",
+            "Subcounty": "Buhanika",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "851",
+            "Subcounty": "Buhimba",
+            "Soilcode": "11"
+        },
+        {
+            "ID": "852",
+            "Subcounty": "Buseruka",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "853",
+            "Subcounty": "Busiisi",
+            "Soilcode": "11"
+        },
+        {
+            "ID": "854",
+            "Subcounty": "Hoima Tc",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "855",
+            "Subcounty": "Kabwoya",
+            "Soilcode": "11"
+        },
+        {
+            "ID": "856",
+            "Subcounty": "Kigorobya",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "857",
+            "Subcounty": "Kigorobya Tc",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "858",
+            "Subcounty": "Kitoba",
+            "Soilcode": "11"
+        },
+        {
+            "ID": "859",
+            "Subcounty": "Kiziranfumbi",
+            "Soilcode": "11"
+        },
+        {
+            "ID": "860",
+            "Subcounty": "Kyabigambire",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "861",
+            "Subcounty": "Kyangwali",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "862",
+            "Subcounty": "bujjumbura division",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "863",
+            "Subcounty": "kahaaro division",
+            "Soilcode": "11"
+        },
+        {
+            "ID": "864",
+            "Subcounty": "mpaaro division",
+            "Soilcode": "11"
+        },
+        {
+            "ID": "865",
+            "Subcounty": "Bisheshe",
+            "Soilcode": "8"
+        },
+        {
+            "ID": "866",
+            "Subcounty": "Ibanda Tc",
+            "Soilcode": "55"
+        },
+        {
+            "ID": "867",
+            "Subcounty": "Ishongororo",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "868",
+            "Subcounty": "Kicuzi",
+            "Soilcode": "60"
+        },
+        {
+            "ID": "869",
+            "Subcounty": "Kikyenkye",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "870",
+            "Subcounty": "Nyabuyikye",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "871",
+            "Subcounty": "Nyamarebe",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "872",
+            "Subcounty": "Rukiri",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "873",
+            "Subcounty": "Rushango TC",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "874",
+            "Subcounty": "Ishongororo TC",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "875",
+            "Subcounty": "Kijongo",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "876",
+            "Subcounty": "Kashangura",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "877",
+            "Subcounty": "Nsasi",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "878",
+            "Subcounty": "Kfahingara",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "879",
+            "Subcounty": "kikyenkye",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "880",
+            "Subcounty": "Ngorora TC",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "881",
+            "Subcounty": "Birere",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "882",
+            "Subcounty": "Endinzi",
+            "Soilcode": "27"
+        },
+        {
+            "ID": "883",
+            "Subcounty": "Kabingo",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "884",
+            "Subcounty": "Kabuyanda",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "885",
+            "Subcounty": "Kashumba",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "886",
+            "Subcounty": "Kikagate",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "887",
+            "Subcounty": "Masha",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "888",
+            "Subcounty": "Ngarama",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "889",
+            "Subcounty": "Nyakitunda",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "890",
+            "Subcounty": "Rugaaga",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "891",
+            "Subcounty": "Kaberebere",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "892",
+            "Subcounty": "nyamuyanja",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "893",
+            "Subcounty": "Kabuyanda",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "894",
+            "Subcounty": "Kabuyanda TC",
+            "Soilcode": "33"
+        },
+        {
+            "ID": "895",
+            "Subcounty": "Ruborogota",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "896",
+            "Subcounty": "Isingiro TC",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "897",
+            "Subcounty": "mbaare",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "898",
+            "Subcounty": "rushasha",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "899",
+            "Subcounty": "Bubare",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "900",
+            "Subcounty": "Bufundi",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "901",
+            "Subcounty": "Buhara",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "902",
+            "Subcounty": "Bukinda",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "903",
+            "Subcounty": "Hamurwa",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "904",
+            "Subcounty": "Ikumba",
+            "Soilcode": "11"
+        },
+        {
+            "ID": "905",
+            "Subcounty": "Kabale Central",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "906",
+            "Subcounty": "Kabale Northern",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "907",
+            "Subcounty": "Kabale Southern",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "908",
+            "Subcounty": "Kaharo",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "909",
+            "Subcounty": "Kamuganguzi",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "910",
+            "Subcounty": "Kamwezi",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "911",
+            "Subcounty": "Kashambya",
+            "Soilcode": "11"
+        },
+        {
+            "ID": "912",
+            "Subcounty": "Kitumba",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "913",
+            "Subcounty": "Kyanamira",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "914",
+            "Subcounty": "Maziba",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "915",
+            "Subcounty": "Muko",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "916",
+            "Subcounty": "Rubaya",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "917",
+            "Subcounty": "Ruhija",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "918",
+            "Subcounty": "Hamurwa TC",
+            "Soilcode": "11"
+        },
+        {
+            "ID": "919",
+            "Subcounty": "Katuna tc",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "920",
+            "Subcounty": "nyamweru",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "921",
+            "Subcounty": "Rwamucucu",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "922",
+            "Subcounty": "Muhanga TC",
+            "Soilcode": "61"
+        },
+        {
+            "ID": "923",
+            "Subcounty": "Buheesi",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "924",
+            "Subcounty": "Bukuku",
+            "Soilcode": "60"
+        },
+        {
+            "ID": "925",
+            "Subcounty": "Busoro",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "926",
+            "Subcounty": "Eastern",
+            "Soilcode": "15"
+        },
+        {
+            "ID": "927",
+            "Subcounty": "Hakibaale",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "928",
+            "Subcounty": "Karambi",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "929",
+            "Subcounty": "Kibiito",
+            "Soilcode": "15"
+        },
+        {
+            "ID": "930",
+            "Subcounty": "Kicwamba",
+            "Soilcode": "15"
+        },
+        {
+            "ID": "931",
+            "Subcounty": "Kisomoro",
+            "Soilcode": "16"
+        },
+        {
+            "ID": "932",
+            "Subcounty": "Mugusu",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "933",
+            "Subcounty": "Ruteete",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "934",
+            "Subcounty": "Rwimi",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "935",
+            "Subcounty": "Southern",
+            "Soilcode": "16"
+        },
+        {
+            "ID": "936",
+            "Subcounty": "Western",
+            "Soilcode": "15"
+        },
+        {
+            "ID": "937",
+            "Subcounty": "Kasenda",
+            "Soilcode": "16"
+        },
+        {
+            "ID": "938",
+            "Subcounty": "kabonero",
+            "Soilcode": "15"
+        },
+        {
+            "ID": "939",
+            "Subcounty": "rwimi tc",
+            "Soilcode": "15"
+        },
+        {
+            "ID": "940",
+            "Subcounty": "kibiito tc",
+            "Soilcode": "16"
+        },
+        {
+            "ID": "941",
+            "Subcounty": "rubona tc",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "942",
+            "Subcounty": "karangura",
+            "Soilcode": "15"
+        },
+        {
+            "ID": "943",
+            "Subcounty": "kijura tc",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "944",
+            "Subcounty": "Bwiizi",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "945",
+            "Subcounty": "Kahunge",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "946",
+            "Subcounty": "Kamwenge",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "947",
+            "Subcounty": "Kamwenge Tc",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "948",
+            "Subcounty": "Kicheche",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "949",
+            "Subcounty": "Mahyoro",
+            "Soilcode": "49"
+        },
+        {
+            "ID": "950",
+            "Subcounty": "Nkoma",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "951",
+            "Subcounty": "Ntara",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "952",
+            "Subcounty": "Nyabbani",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "953",
+            "Subcounty": "Busiriba",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "954",
+            "Subcounty": "Biguli",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "955",
+            "Subcounty": "kabambiro",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "956",
+            "Subcounty": "kanara",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "957",
+            "Subcounty": "nyabbani",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "958",
+            "Subcounty": "Kambuga",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "959",
+            "Subcounty": "Kambuga TC",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "960",
+            "Subcounty": "Kanungu Tc",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "961",
+            "Subcounty": "Kanyantogo",
+            "Soilcode": "18"
+        },
+        {
+            "ID": "962",
+            "Subcounty": "Kayonza",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "963",
+            "Subcounty": "Kihiihi",
+            "Soilcode": "63"
+        },
+        {
+            "ID": "964",
+            "Subcounty": "Kirima",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "965",
+            "Subcounty": "Mpungu",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "966",
+            "Subcounty": "Nyamirama",
+            "Soilcode": "18"
+        },
+        {
+            "ID": "967",
+            "Subcounty": "Rugyeyo",
+            "Soilcode": "55"
+        },
+        {
+            "ID": "968",
+            "Subcounty": "Rutenga",
+            "Soilcode": "11"
+        },
+        {
+            "ID": "969",
+            "Subcounty": "butogota TC",
+            "Soilcode": "18"
+        },
+        {
+            "ID": "970",
+            "Subcounty": "nyanga",
+            "Soilcode": "18"
+        },
+        {
+            "ID": "971",
+            "Subcounty": "katete",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "972",
+            "Subcounty": "Kihiihi TC",
+            "Soilcode": "18"
+        },
+        {
+            "ID": "973",
+            "Subcounty": "Bugoye",
+            "Soilcode": "32"
+        },
+        {
+            "ID": "974",
+            "Subcounty": "Bwera",
+            "Soilcode": "13"
+        },
+        {
+            "ID": "975",
+            "Subcounty": "Ihandiro",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "976",
+            "Subcounty": "Karambi",
+            "Soilcode": "13"
+        },
+        {
+            "ID": "977",
+            "Subcounty": "Karusandara",
+            "Soilcode": "21"
+        },
+        {
+            "ID": "978",
+            "Subcounty": "Katwe Kabatoro Tc",
+            "Soilcode": "15"
+        },
+        {
+            "ID": "979",
+            "Subcounty": "Kilembe",
+            "Soilcode": "32"
+        },
+        {
+            "ID": "980",
+            "Subcounty": "Kisinga",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "981",
+            "Subcounty": "Kitholhu",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "982",
+            "Subcounty": "Kitswamba",
+            "Soilcode": "49"
+        },
+        {
+            "ID": "983",
+            "Subcounty": "Kyabarungira",
+            "Soilcode": "35"
+        },
+        {
+            "ID": "984",
+            "Subcounty": "Kyarumba",
+            "Soilcode": "32"
+        },
+        {
+            "ID": "985",
+            "Subcounty": "Kyondo",
+            "Soilcode": "60"
+        },
+        {
+            "ID": "986",
+            "Subcounty": "L. Katwe",
+            "Soilcode": "13"
+        },
+        {
+            "ID": "987",
+            "Subcounty": "Mahango",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "988",
+            "Subcounty": "Maliba",
+            "Soilcode": "32"
+        },
+        {
+            "ID": "989",
+            "Subcounty": "Muhokya",
+            "Soilcode": "21"
+        },
+        {
+            "ID": "990",
+            "Subcounty": "Munkunyu",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "991",
+            "Subcounty": "Nyakiyumbu",
+            "Soilcode": "13"
+        },
+        {
+            "ID": "992",
+            "Subcounty": "Buhuhira",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "993",
+            "Subcounty": "bwesumbu",
+            "Soilcode": "60"
+        },
+        {
+            "ID": "994",
+            "Subcounty": "Hima TC",
+            "Soilcode": "49"
+        },
+        {
+            "ID": "995",
+            "Subcounty": "Bulembia Division",
+            "Soilcode": "32"
+        },
+        {
+            "ID": "996",
+            "Subcounty": "rukoki",
+            "Soilcode": "35"
+        },
+        {
+            "ID": "997",
+            "Subcounty": "Ndyamwamba Division",
+            "Soilcode": "49"
+        },
+        {
+            "ID": "998",
+            "Subcounty": "central division",
+            "Soilcode": "35"
+        },
+        {
+            "ID": "999",
+            "Subcounty": "Nyakatonzi",
+            "Soilcode": "13"
+        },
+        {
+            "ID": "1000",
+            "Subcounty": "isango",
+            "Soilcode": "13"
+        },
+        {
+            "ID": "1001",
+            "Subcounty": "mpondwe lhubiriha TC",
+            "Soilcode": "13"
+        },
+        {
+            "ID": "1002",
+            "Subcounty": "Bwamiramira",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1003",
+            "Subcounty": "Bwanswa",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1004",
+            "Subcounty": "Bwikara",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1005",
+            "Subcounty": "Kagadi",
+            "Soilcode": "30"
+        },
+        {
+            "ID": "1006",
+            "Subcounty": "Kakindo",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "1007",
+            "Subcounty": "Kasambya",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1008",
+            "Subcounty": "Kibaale Tc",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1009",
+            "Subcounty": "Kiryanga",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "1010",
+            "Subcounty": "Kisiita",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "1011",
+            "Subcounty": "Kyanaisoke",
+            "Soilcode": "30"
+        },
+        {
+            "ID": "1012",
+            "Subcounty": "Kyebando",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1013",
+            "Subcounty": "Mabaale",
+            "Soilcode": "30"
+        },
+        {
+            "ID": "1014",
+            "Subcounty": "Matale",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1015",
+            "Subcounty": "Mpeefu",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1016",
+            "Subcounty": "Mugarama",
+            "Soilcode": "30"
+        },
+        {
+            "ID": "1017",
+            "Subcounty": "Muhoro",
+            "Soilcode": "30"
+        },
+        {
+            "ID": "1018",
+            "Subcounty": "Nalweyo",
+            "Soilcode": "7"
+        },
+        {
+            "ID": "1019",
+            "Subcounty": "Nkooko",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1020",
+            "Subcounty": "Rugashari",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1021",
+            "Subcounty": "Nyakashashara",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "1022",
+            "Subcounty": "Buremba",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "1023",
+            "Subcounty": "Kitura",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "1024",
+            "Subcounty": "Kinoni",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "1025",
+            "Subcounty": "Kiatsi",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "1026",
+            "Subcounty": "Sanga",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "1027",
+            "Subcounty": "Kenshunga",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "1028",
+            "Subcounty": "Kashongi",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "1029",
+            "Subcounty": "Kanyaryeru",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "1030",
+            "Subcounty": "Burunga",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "1031",
+            "Subcounty": "Engari",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "1032",
+            "Subcounty": "Kanoni",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "1033",
+            "Subcounty": "Rwemikoma",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "1034",
+            "Subcounty": "Nkungu",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "1035",
+            "Subcounty": "Kazo",
+            "Soilcode": "n/a"
+        },
+        {
+            "ID": "1036",
+            "Subcounty": "Kigumba",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "1037",
+            "Subcounty": "Kiryandongo",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "1038",
+            "Subcounty": "Masindi Port",
+            "Soilcode": "28"
+        },
+        {
+            "ID": "1039",
+            "Subcounty": "Mutunda",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "1040",
+            "Subcounty": "Karuma Fa",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "1041",
+            "Subcounty": "kiryadongo TC",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "1042",
+            "Subcounty": "Bweyale TC",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "1043",
+            "Subcounty": "Kigumba TC",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "1044",
+            "Subcounty": "Bukimbiri",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "1045",
+            "Subcounty": "Busanza",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "1046",
+            "Subcounty": "Chahi",
+            "Soilcode": "16"
+        },
+        {
+            "ID": "1047",
+            "Subcounty": "Kanaba",
+            "Soilcode": "16"
+        },
+        {
+            "ID": "1048",
+            "Subcounty": "Kirundo",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "1049",
+            "Subcounty": "Kisoro Tc",
+            "Soilcode": "16"
+        },
+        {
+            "ID": "1050",
+            "Subcounty": "Muramba",
+            "Soilcode": "16"
+        },
+        {
+            "ID": "1051",
+            "Subcounty": "Murora",
+            "Soilcode": "16"
+        },
+        {
+            "ID": "1052",
+            "Subcounty": "Nyabwishenya",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "1053",
+            "Subcounty": "Nyakabande",
+            "Soilcode": "16"
+        },
+        {
+            "ID": "1054",
+            "Subcounty": "Nyakinama",
+            "Soilcode": "16"
+        },
+        {
+            "ID": "1055",
+            "Subcounty": "Nyarubuye",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "1056",
+            "Subcounty": "Nyarusiza",
+            "Soilcode": "13"
+        },
+        {
+            "ID": "1057",
+            "Subcounty": "Nyundo",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "1058",
+            "Subcounty": "Hapuyo",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "1059",
+            "Subcounty": "Kakabara",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "1060",
+            "Subcounty": "Kasule",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "1061",
+            "Subcounty": "Kyegegwa",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "1062",
+            "Subcounty": "Mpara",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "1063",
+            "Subcounty": "Bufunjo",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "1064",
+            "Subcounty": "Bugaaki",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "1065",
+            "Subcounty": "Butiiti",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "1066",
+            "Subcounty": "Katoke",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "1067",
+            "Subcounty": "Kihuura",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "1068",
+            "Subcounty": "Kyarusozi",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "1069",
+            "Subcounty": "Kyenjojo Tc",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "1070",
+            "Subcounty": "Nyankwanzi",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "1071",
+            "Subcounty": "Nyantungo",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "1072",
+            "Subcounty": "Katooke TC",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "1073",
+            "Subcounty": "Kyarusozi TC",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "1074",
+            "Subcounty": "nyabuharwa",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "1075",
+            "Subcounty": "kigaraare",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "1076",
+            "Subcounty": "kisojo",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "1077",
+            "Subcounty": "Butunduzi",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "1078",
+            "Subcounty": "Butunduzi TC",
+            "Soilcode": "3"
+        },
+        {
+            "ID": "1079",
+            "Subcounty": "Bwijanga",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "1080",
+            "Subcounty": "Karujubu",
+            "Soilcode": "11"
+        },
+        {
+            "ID": "1081",
+            "Subcounty": "Kimengo",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "1082",
+            "Subcounty": "Kigulya Division",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "1083",
+            "Subcounty": "Miirya",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "1084",
+            "Subcounty": "Nyangahya",
+            "Soilcode": "52"
+        },
+        {
+            "ID": "1085",
+            "Subcounty": "Pakanyi",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "1086",
+            "Subcounty": "Budongo",
+            "Soilcode": "6"
+        },
+        {
+            "ID": "1087",
+            "Subcounty": "Central Division",
+            "Soilcode": "11"
+        },
+        {
+            "ID": "1088",
+            "Subcounty": "Bubaare",
+            "Soilcode": "33"
+        },
+        {
+            "ID": "1089",
+            "Subcounty": "Bugamba",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "1090",
+            "Subcounty": "Bukiro",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1091",
+            "Subcounty": "Kagongi",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1092",
+            "Subcounty": "Kakiika",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1093",
+            "Subcounty": "Kakoba",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1094",
+            "Subcounty": "Kamukuzi",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1095",
+            "Subcounty": "Kashare",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1096",
+            "Subcounty": "Mwizi",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "1097",
+            "Subcounty": "Ndaija",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "1098",
+            "Subcounty": "Nyakayojo",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1099",
+            "Subcounty": "Nyamitanga",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1100",
+            "Subcounty": "Rubaya",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1101",
+            "Subcounty": "Rubindi",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1102",
+            "Subcounty": "Rugando",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1103",
+            "Subcounty": "Rwanyamahembe",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1104",
+            "Subcounty": "Biharwe",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1105",
+            "Subcounty": "Bitereko",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1106",
+            "Subcounty": "Kabira",
+            "Soilcode": "55"
+        },
+        {
+            "ID": "1107",
+            "Subcounty": "Kanyabwanga",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "1108",
+            "Subcounty": "Kashenshero",
+            "Soilcode": "55"
+        },
+        {
+            "ID": "1109",
+            "Subcounty": "Kiyanga",
+            "Soilcode": "18"
+        },
+        {
+            "ID": "1110",
+            "Subcounty": "Mitooma",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1111",
+            "Subcounty": "Mutara",
+            "Soilcode": "55"
+        },
+        {
+            "ID": "1112",
+            "Subcounty": "Kashenshero TC",
+            "Soilcode": "55"
+        },
+        {
+            "ID": "1113",
+            "Subcounty": "Mitooma TC",
+            "Soilcode": "55"
+        },
+        {
+            "ID": "1114",
+            "Subcounty": "Kanara TC",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "1115",
+            "Subcounty": "Karugutu",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "1116",
+            "Subcounty": "Rwebisengo",
+            "Soilcode": "64"
+        },
+        {
+            "ID": "1117",
+            "Subcounty": "Kanara ",
+            "Soilcode": "64"
+        },
+        {
+            "ID": "1118",
+            "Subcounty": "Butungama",
+            "Soilcode": "64"
+        },
+        {
+            "ID": "1119",
+            "Subcounty": "Bweramule",
+            "Soilcode": "64"
+        },
+        {
+            "ID": "1120",
+            "Subcounty": "Rwenbisengo TC",
+            "Soilcode": "64"
+        },
+        {
+            "ID": "1121",
+            "Subcounty": "Kibuku TC",
+            "Soilcode": "64"
+        },
+        {
+            "ID": "1122",
+            "Subcounty": "Karagutu TC",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "1123",
+            "Subcounty": "Nombe",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "1124",
+            "Subcounty": "Bwongyera",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "1125",
+            "Subcounty": "Ihunga",
+            "Soilcode": "55"
+        },
+        {
+            "ID": "1126",
+            "Subcounty": "Itojo",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "1127",
+            "Subcounty": "Kayonza",
+            "Soilcode": "27"
+        },
+        {
+            "ID": "1128",
+            "Subcounty": "Kibatsi",
+            "Soilcode": "55"
+        },
+        {
+            "ID": "1129",
+            "Subcounty": "Ngoma",
+            "Soilcode": "27"
+        },
+        {
+            "ID": "1130",
+            "Subcounty": "Ntungamo",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1131",
+            "Subcounty": "Western Division",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1132",
+            "Subcounty": "Nyabihoko",
+            "Soilcode": "55"
+        },
+        {
+            "ID": "1133",
+            "Subcounty": "Nyakyera",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "1134",
+            "Subcounty": "Rubaare",
+            "Soilcode": "27"
+        },
+        {
+            "ID": "1135",
+            "Subcounty": "Rugarama",
+            "Soilcode": "55"
+        },
+        {
+            "ID": "1136",
+            "Subcounty": "Ruhaama",
+            "Soilcode": "42"
+        },
+        {
+            "ID": "1137",
+            "Subcounty": "Rukoni west",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1138",
+            "Subcounty": "Rweikiniro",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1139",
+            "Subcounty": "Eastern Division",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1140",
+            "Subcounty": "Central Division",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1141",
+            "Subcounty": "Kitwe TC",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1142",
+            "Subcounty": "Rukoni east",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "1143",
+            "Subcounty": "Bugangari",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "1144",
+            "Subcounty": "Buhunga",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "1145",
+            "Subcounty": "Buyanja",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "1146",
+            "Subcounty": "Bwambara",
+            "Soilcode": "18"
+        },
+        {
+            "ID": "1147",
+            "Subcounty": "Eastern Division",
+            "Soilcode": "55"
+        },
+        {
+            "ID": "1148",
+            "Subcounty": "Kebisoni",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "1149",
+            "Subcounty": "Nyakagyeme",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "1150",
+            "Subcounty": "Nyakishenyi",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "1151",
+            "Subcounty": "Nyarushanje",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "1152",
+            "Subcounty": "Ruhinda",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "1153",
+            "Subcounty": "Western Division",
+            "Soilcode": "55"
+        },
+        {
+            "ID": "1154",
+            "Subcounty": "Southern Division",
+            "Soilcode": "41"
+        },
+        {
+            "ID": "1155",
+            "Subcounty": "Masheruka",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1156",
+            "Subcounty": "Kigarama",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1157",
+            "Subcounty": "Kyangyenyi",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1158",
+            "Subcounty": "Kagango",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1159",
+            "Subcounty": "Kabwohe-itendero Tc",
+            "Soilcode": "43"
+        },
+        {
+            "ID": "1160",
+            "Subcounty": "Kibingo TC",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1161",
+            "Subcounty": "Bugongi",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "1162",
+            "Subcounty": "Bugongi TC",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1163",
+            "Subcounty": "Shuuka",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1164",
+            "Subcounty": "kasaana",
+            "Soilcode": "38"
+        },
+        {
+            "ID": "1165",
+            "Subcounty": "Kitagata",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1166",
+            "Subcounty": "Adjumani Tc",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "1167",
+            "Subcounty": "Adropi",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "1168",
+            "Subcounty": "Ciforo",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "1169",
+            "Subcounty": "Dzaipi",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "1170",
+            "Subcounty": "Ofua",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "1171",
+            "Subcounty": "Pakelle",
+            "Soilcode": "51"
+        },
+        {
+            "ID": "1172",
+            "Subcounty": "Kijomoro",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "1173",
+            "Subcounty": "Nyadri",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "1174",
+            "Subcounty": "Oleba",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "1175",
+            "Subcounty": "Oluffe",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "1176",
+            "Subcounty": "Oluvu",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "1177",
+            "Subcounty": "Tara",
+            "Soilcode": "8"
+        },
+        {
+            "ID": "1178",
+            "Subcounty": "Yivu",
+            "Soilcode": "36"
+        },
+        {
+            "ID": "1179",
+            "Subcounty": "Maracha TC",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "1180",
+            "Subcounty": "Aliba",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "1181",
+            "Subcounty": "Dufile",
+            "Soilcode": "36"
+        },
+        {
+            "ID": "1182",
+            "Subcounty": "Gimara",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "1183",
+            "Subcounty": "Itula",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "1184",
+            "Subcounty": "Lefori",
+            "Soilcode": "65"
+        },
+        {
+            "ID": "1185",
+            "Subcounty": "Metu",
+            "Soilcode": "36"
+        },
+        {
+            "ID": "1186",
+            "Subcounty": "Moyo",
+            "Soilcode": "1/8/36/25"
+        },
+        {
+            "ID": "1187",
+            "Subcounty": "Moyo Tc",
+            "Soilcode": "36"
+        },
+        {
+            "ID": "1188",
+            "Subcounty": "Akworo",
+            "Soilcode": "1/8/36/25"
+        },
+        {
+            "ID": "1189",
+            "Subcounty": "Erussi",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1190",
+            "Subcounty": "Kucwiny",
+            "Soilcode": "1/8/36/25"
+        },
+        {
+            "ID": "1191",
+            "Subcounty": "Nebbi",
+            "Soilcode": "36"
+        },
+        {
+            "ID": "1192",
+            "Subcounty": "Nebbi Tc",
+            "Soilcode": "36"
+        },
+        {
+            "ID": "1193",
+            "Subcounty": "Nyaravur",
+            "Soilcode": "1/8/36/25"
+        },
+        {
+            "ID": "1194",
+            "Subcounty": "Pakwach",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "1195",
+            "Subcounty": "Pakwach Tc",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "1196",
+            "Subcounty": "Panyango",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "1197",
+            "Subcounty": "Panyimur",
+            "Soilcode": "1/8/36/25"
+        },
+        {
+            "ID": "1198",
+            "Subcounty": "Parombo",
+            "Soilcode": "1"
+        },
+        {
+            "ID": "1199",
+            "Subcounty": "Wadelai",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "1200",
+            "Subcounty": "Alwi",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "1201",
+            "Subcounty": "ndwe",
+            "Soilcode": "36"
+        },
+        {
+            "ID": "1202",
+            "Subcounty": "atego",
+            "Soilcode": "36"
+        },
+        {
+            "ID": "1203",
+            "Subcounty": "Apo",
+            "Soilcode": "1/8/36/25"
+        },
+        {
+            "ID": "1204",
+            "Subcounty": "Drajani",
+            "Soilcode": "8"
+        },
+        {
+            "ID": "1205",
+            "Subcounty": "Kei",
+            "Soilcode": "1/8/36/25"
+        },
+        {
+            "ID": "1206",
+            "Subcounty": "Kuru",
+            "Soilcode": "8"
+        },
+        {
+            "ID": "1207",
+            "Subcounty": "Midigo",
+            "Soilcode": "1/8/36/25"
+        },
+        {
+            "ID": "1208",
+            "Subcounty": "Odravu",
+            "Soilcode": "1/8/36/25"
+        },
+        {
+            "ID": "1209",
+            "Subcounty": "Romogi",
+            "Soilcode": "1/8/36/25"
+        },
+        {
+            "ID": "1210",
+            "Subcounty": "Yumbe Tc",
+            "Soilcode": "8"
+        },
+        {
+            "ID": "1211",
+            "Subcounty": "kerwa",
+            "Soilcode": "1/8/36/25"
+        },
+        {
+            "ID": "1212",
+            "Subcounty": "koch",
+            "Soilcode": "1/8/36/25"
+        },
+        {
+            "ID": "1213",
+            "Subcounty": "lodonga",
+            "Soilcode": "8"
+        },
+        {
+            "ID": "1214",
+            "Subcounty": "kululu",
+            "Soilcode": "1/8/36/25"
+        },
+        {
+            "ID": "1215",
+            "Subcounty": "ariwa",
+            "Soilcode": "20"
+        },
+        {
+            "ID": "1216",
+            "Subcounty": "Atyak",
+            "Soilcode": "36"
+        },
+        {
+            "ID": "1217",
+            "Subcounty": "Jangokoro",
+            "Soilcode": "5"
+        },
+        {
+            "ID": "1218",
+            "Subcounty": "Kango",
+            "Soilcode": "5"
+        },
+        {
+            "ID": "1219",
+            "Subcounty": "Nyapea",
+            "Soilcode": "5"
+        },
+        {
+            "ID": "1220",
+            "Subcounty": "Paidha",
+            "Soilcode": "36"
+        },
+        {
+            "ID": "1221",
+            "Subcounty": "Paidha Tc",
+            "Soilcode": "5"
+        },
+        {
+            "ID": "1222",
+            "Subcounty": "Zeu",
+            "Soilcode": "2"
+        },
+        {
+            "ID": "1223",
+            "Subcounty": "zombo TC",
+            "Soilcode": "5"
+        }
+    ]

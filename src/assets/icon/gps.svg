@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 499 499" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g>
+        <g>
+            <g>
+                <path d="M249.462,0C151.018,0 70.951,80.106 70.951,178.511C70.951,270.947 204.568,370.964 243.199,494.459C244.029,497.126 246.521,498.943 249.315,498.924C252.119,498.885 254.571,497.048 255.363,494.361C292.841,367.828 427.963,271.054 427.972,178.492C427.963,80.106 347.886,0 249.462,0ZM249.462,313.925C172.278,313.925 109.475,251.113 109.475,173.938C109.475,96.754 172.278,33.951 249.462,33.951C326.627,33.951 389.439,96.754 389.439,173.938C389.439,251.113 326.626,313.925 249.462,313.925Z" style="fill:rgb(255,0,0);fill-rule:nonzero;"/>
+            </g>
+        </g>
+        <g transform="matrix(1.18378,0,0,1.28249,-73.0811,-34.904)">
+            <ellipse cx="272.5" cy="162.5" rx="92.5" ry="88.5" style="fill:rgb(255,0,0);"/>
+        </g>
+    </g>
+</svg>
