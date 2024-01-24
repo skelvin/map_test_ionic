@@ -20,7 +20,7 @@
     <preference name="SplashScreenDelay" value="3000" />
     <preference name="AndroidPersistentFileLocation" value="Compatibility" />
     <preference name="StatusBarOverlaysWebView" value="false" />
-    <preference name="GOOGLE_MAPS_ANDROID_API_KEY" value="(AIzaSyAwNEbehhCas6b7eSHaLYGbaQkMvL1PNM8)" />
+    <preference name="GOOGLE_MAPS_ANDROID_API_KEY" value="(AIzaSyBx86koSd9xsmg-68RW40QnB5gNyAXpEO8)" />
     <preference name="GOOGLE_MAPS_IOS_API_KEY" value="(AIzaSyCXNENVhgx-n1CVS6VlYiHPEustrnmPn3Y)" />
     <preference name="loadUrlTimeoutValue" value="700000" />
     <preference name="android-minSdkVersion" value="21" />
